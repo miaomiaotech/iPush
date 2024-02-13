@@ -1,0 +1,23 @@
+PODS:
+  - Alamofire (5.8.1)
+  - TRON (5.3.0):
+    - Alamofire (~> 5.0)
+    - TRON/Core (= 5.3.0)
+  - TRON/Core (5.3.0):
+    - Alamofire (~> 5.0)
+
+DEPENDENCIES:
+  - TRON (~> 5.3.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - TRON
+
+SPEC CHECKSUMS:
+  Alamofire: 3ca42e259043ee0dc5c0cdd76c4bc568b8e42af7
+  TRON: 146d78dbf9bbcaaa77b7cf398a0a63d5dda267a5
+
+PODFILE CHECKSUM: b1e4ea593abab2ed895e78e7d8d61fad5fc7baa7
+
+COCOAPODS: 1.15.2
